@@ -14,3 +14,20 @@ body{
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
 }
+#main{
+    background-color: var(--lightGray);
+    max-width: 81rem;
+    display: block;
+    position: relative;
+    justify-content: center;
+    margin: 0 50px 20px;
+    outline: 5px solid white
+    
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+#main #content{
+    background-color:var(--White) 
+}
